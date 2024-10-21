@@ -1,0 +1,9 @@
+num1=60
+num2=30
+bitwise_and=num1&num2
+bitwise_or=num1/num2
+bitwise_xor=num1^num2
+bitwise_complement=-num1
+left_shift=num1<<2
+right_shift=num1>>2
+print(
